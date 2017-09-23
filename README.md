@@ -1,2 +1,2 @@
 # delineo
-Simple lwjgl3 helper.
+Simple lwjgl3 helper. WIP.
